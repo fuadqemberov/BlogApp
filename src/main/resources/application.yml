@@ -1,0 +1,10 @@
+server:
+  port: 6666
+  servlet:
+    context-path: /bloggapp
+
+spring:
+    profiles:
+      active: dev
+
+
